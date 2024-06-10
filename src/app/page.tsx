@@ -12,7 +12,7 @@ export default async function Home() {
         <h1 className="text-5xl font-extrabold tracking-tight sm:text-[5rem]">
           Create{" "}
           <span className="text-[hsl(280,100%,70%)]">
-            Con + Saraa's shitty web app
+            <p>{"Con + Saraa's shitty web app"}</p>
           </span>{" "}
           App
         </h1>
